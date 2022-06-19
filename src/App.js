@@ -27,7 +27,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://netlify.com/"
+            href="https://musical-druid-f87c8b.netlify.app"
             target="_blank"
             rel="noopener noreferrer"
           >
